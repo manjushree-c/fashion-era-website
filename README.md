@@ -1,4 +1,4 @@
-# Fashion Era — Kids Casting & Production Website
+# Fashion Era : Kids Casting & Production Website
 
 🔗 **Live site:** [fashioneracasting.com](https://www.fashioneracasting.com/)
 
